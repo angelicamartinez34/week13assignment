@@ -25,7 +25,7 @@ public class Employee {
 	
 	private String employeeLastName;
 	
-	private Long employeePhone;
+	private String employeePhone;
 	
 	private String employeeJobTitle;
 	
